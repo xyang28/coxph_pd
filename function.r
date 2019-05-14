@@ -11,13 +11,13 @@ add functions to smooth out coxph baseline function
 
 
 setwd("~Intermediate DT")
-setwd("~Capital Plan 2019")
+setwd("~kPlan 2019")
 
 ########################
 # output data location #
 ########################
 
-setwd("~Capital Plan 2019")
+setwd("~kPlan 2019")
 setwd("~Intermediate DT")
 setwd("~Fit Model & Forecast")
 ###################
