@@ -3,7 +3,7 @@
 ### PURPOSE ###
 ###############
 This code is part of the Mortgage PD model (bottom-up) 
-add functions to smooth out coxph baseline function
+add functions to smooth out coxph baseline 
 
 ########################
 ### raw data location###
